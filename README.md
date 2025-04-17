@@ -23,5 +23,3 @@ A responsive admin dashboard built with CSS Grid and Flexbox.
 
 1. Clone the repository
 2. Open `index.html` in your browser
-
-## Project Structure
