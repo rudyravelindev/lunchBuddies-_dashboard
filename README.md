@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-![Dashboard Preview](./dashboard-project.png)
+![Dashboard Preview](/dashboard-project.png)
 
 A responsive admin dashboard built with CSS Grid and Flexbox.
 
